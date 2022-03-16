@@ -4,3 +4,14 @@
 
 layout: home
 ---
+
+<h1>{{ site.title }}</h1>
+
+more content
+
+<h2>FITS Contributors</h2>
+<ul>
+  <li>Contributor 1</li>
+  <li>Contributor 2</li>
+  <li>Contributor 3</li>
+</ul>
